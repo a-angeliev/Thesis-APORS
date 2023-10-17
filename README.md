@@ -85,6 +85,6 @@ From the perspective of the speed, the second and the third one are faster and c
 That is the results from both models in action:
 ![Alt text](Test-images/image-4.png)
 
-## Conclution
+## Conclusion
 
 In conclusion, Test 1 is fast and accurate enough to be used in a real environment.
